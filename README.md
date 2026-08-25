@@ -161,9 +161,20 @@ Alternatively diagrams can be wrapped in HTML tags:
 </code></pre>
 ```
 
+Hover over a diagram to reveal a floating toolbar:
+
+- `−` / `+` - zoom out / zoom in
+- the percentage label - reset the diagram back to 100%
+- `Fit` - scale the diagram to fit the available space
+- `⛶` - open the diagram fullscreen (fits the whole diagram to your screen, `Esc` to exit)
+
+Interactions:
+
+- pan by holding down the left mouse button and dragging in any direction
+- zoom by holding down the `Shift` (or `Ctrl`) key and scrolling the mouse wheel
+- double-click to zoom in
+- pinch to zoom on touch devices
 - resize the diagram container vertically by dragging the bottom right corner of the code block up or down
-- zoom in and out by holding down the Shift key and then using your mouse wheel
-- pan by holding down the left mouse button and drag in any direction
 
 ## Syntax
 
